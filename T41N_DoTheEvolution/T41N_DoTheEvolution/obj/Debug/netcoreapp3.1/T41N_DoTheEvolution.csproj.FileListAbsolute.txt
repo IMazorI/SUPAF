@@ -1,0 +1,456 @@
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.exe
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.deps.json
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.json
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.dev.json
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.AssemblyReference.cache
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroCliente.resources
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroFuncionario.resources
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroMotoboy.resources
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.DirecionarCorrida.resources
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCliente.resources
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuFuncionario.resources
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuMotoboy.resources
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Principal.resources
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Properties.Resources.resources
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.GenerateResource.cache
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfoInputs.cache
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfo.cs
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CoreCompileInputs.cache
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\Mazor\OneDrive - SENAC - SP\UC16\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.genruntimeconfig.cache
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.exe
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.deps.json
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.json
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.dev.json
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.AssemblyReference.cache
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroCliente.resources
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroFuncionario.resources
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroMotoboy.resources
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.DirecionarCorrida.resources
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCliente.resources
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCorridas.resources
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuFuncionario.resources
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuMotoboy.resources
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuRelatorio.resources
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Principal.resources
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Properties.Resources.resources
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.GenerateResource.cache
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfoInputs.cache
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfo.cs
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CoreCompileInputs.cache
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\Barbarian\Desktop\New folder (14)\Projeto integrador 16-12-2021\New folder\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.genruntimeconfig.cache
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.exe
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.deps.json
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.json
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.dev.json
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.AssemblyReference.cache
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroCliente.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroFuncionario.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroMotoboy.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.DirecionarCorrida.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCliente.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCorridas.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuFuncionario.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuMotoboy.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuRelatorio.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Principal.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Properties.Resources.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.GenerateResource.cache
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfoInputs.cache
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfo.cs
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.genruntimeconfig.cache
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Login.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CopyComplete
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.exe
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.deps.json
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.json
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.dev.json
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.AssemblyReference.cache
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroCliente.resources
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroFuncionario.resources
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroMotoboy.resources
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.DirecionarCorrida.resources
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Login.resources
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCliente.resources
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCorridas.resources
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuFuncionario.resources
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuMotoboy.resources
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuRelatorio.resources
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Principal.resources
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Properties.Resources.resources
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.GenerateResource.cache
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfoInputs.cache
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfo.cs
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CoreCompileInputs.cache
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CopyComplete
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\Barbarian\Desktop\New folder (7)\T41N_DoTheEvolution17-12-2021\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.genruntimeconfig.cache
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.exe
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.deps.json
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.json
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.dev.json
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.AssemblyReference.cache
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroCliente.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroFuncionario.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroMotoboy.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.DirecionarCorrida.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Login.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCliente.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCorridas.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuFuncionario.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuMotoboy.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuRelatorio.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Principal.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Properties.Resources.resources
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.GenerateResource.cache
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfoInputs.cache
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfo.cs
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CopyComplete
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.genruntimeconfig.cache
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.exe
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.deps.json
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.json
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.dev.json
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.AssemblyReference.cache
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroCliente.resources
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroFuncionario.resources
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroMotoboy.resources
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.DirecionarCorrida.resources
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Login.resources
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCliente.resources
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCorridas.resources
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuFuncionario.resources
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuMotoboy.resources
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuRelatorio.resources
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Principal.resources
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Properties.Resources.resources
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.GenerateResource.cache
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfoInputs.cache
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfo.cs
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CoreCompileInputs.cache
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CopyComplete
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.genruntimeconfig.cache
+C:\Users\thiago.hlrosa\Desktop\Nova pasta (25)\Supaf\projeto integrador\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll.config
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.exe
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll.config
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.deps.json
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.json
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.dev.json
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.AssemblyReference.cache
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroCliente.resources
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroFuncionario.resources
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroMotoboy.resources
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.DirecionarCorrida.resources
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Login.resources
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCliente.resources
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCorridas.resources
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuFuncionario.resources
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuMotoboy.resources
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuRelatorio.resources
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Principal.resources
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Properties.Resources.resources
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.GenerateResource.cache
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfoInputs.cache
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfo.cs
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CoreCompileInputs.cache
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CopyComplete
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\thiago.hlrosa\Desktop\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.genruntimeconfig.cache
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.exe
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll.config
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.deps.json
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.json
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.dev.json
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.AssemblyReference.cache
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroCliente.resources
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroFuncionario.resources
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroMotoboy.resources
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.DirecionarCorrida.resources
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Login.resources
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCliente.resources
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCorridas.resources
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuFuncionario.resources
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuMotoboy.resources
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuRelatorio.resources
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Principal.resources
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Properties.Resources.resources
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.GenerateResource.cache
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfoInputs.cache
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfo.cs
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CoreCompileInputs.cache
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CopyComplete
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\thiago.hlrosa\source\repos\ProjetoVisual\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.genruntimeconfig.cache
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.exe
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll.config
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.deps.json
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.json
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.dev.json
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.AssemblyReference.cache
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroCliente.resources
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroFuncionario.resources
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroMotoboy.resources
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.DirecionarCorrida.resources
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Login.resources
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCliente.resources
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCorridas.resources
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuFuncionario.resources
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuMotoboy.resources
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuRelatorio.resources
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Principal.resources
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Properties.Resources.resources
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.GenerateResource.cache
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfoInputs.cache
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfo.cs
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CoreCompileInputs.cache
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CopyComplete
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\thiago.hlrosa\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.genruntimeconfig.cache
+C:\Users\gustavo.lmaziero\Downloads\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll.config
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.exe
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll.config
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.deps.json
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.json
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.runtimeconfig.dev.json
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.AssemblyReference.cache
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroCliente.resources
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroFuncionario.resources
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.CadastroMotoboy.resources
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.DirecionarCorrida.resources
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Login.resources
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCliente.resources
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuCorridas.resources
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuFuncionario.resources
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuMotoboy.resources
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.MenuRelatorio.resources
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Principal.resources
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.Properties.Resources.resources
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.GenerateResource.cache
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfoInputs.cache
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.AssemblyInfo.cs
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.csproj.CopyComplete
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.dll
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.pdb
+C:\Users\gustavo.lmaziero\source\repos\T41N_DoTheEvolution\T41N_DoTheEvolution\obj\Debug\netcoreapp3.1\T41N_DoTheEvolution.genruntimeconfig.cache
