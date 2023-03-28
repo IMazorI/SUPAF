@@ -155,6 +155,24 @@ namespace T41N_DoTheEvolution
                 command.CommandType = CommandType.StoredProcedure;
                 command.Connection = connection;
 
+                //command.Parameters.AddWithValue("nomeCliente", txtNomeRazaoCliente.Text);
+                //command.Parameters.AddWithValue("cpfouCPNJCliente", txtCpfCnpjCliente.Text);
+                //command.Parameters.AddWithValue("emailCliente", txtEmailCliente.Text);
+                //command.Parameters.AddWithValue("cidadeCliente", txtCidadeCliente.Text);
+                //command.Parameters.AddWithValue("enderecoCliente", txtEnderecoCliente.Text);
+                //command.Parameters.AddWithValue("enderecoNumeroCLiente", txtNumCliente.Text);
+                //command.Parameters.AddWithValue("enderecoComplementoCliente", txtComCliente.Text);
+                //command.Parameters.AddWithValue("telefoneCliente", txtTelefoneCliente.Text);
+                //command.Parameters.AddWithValue("celularCliente", txtCelularCliente.Text);
+                ////command.Parameters.AddWithValue("tipoCliente", txtTipoCliente.Text);
+                ////command.Parameters.AddWithValue("ativoInativoCliente", chkSimCliente.Checked || chkNaoCliente.Checked);
+                ////command.Parameters.AddWithValue("conveniadoCLiente", chkSimConvenio.Checked || chkNaoConvenio.Checked);
+                //command.Parameters.AddWithValue("creditoConveniado", txtConveniado.Text);
+                ////command.Parameters.AddWithValue("descontoConveniado", txtCredito.Text);
+                //command.Parameters.AddWithValue("loginCliente", txtEmailCliente.Text);
+                //command.Parameters.AddWithValue("senhaCliente", txtSenhaCliente.Text);
+
+
                 command.Parameters.AddWithValue("nomeCliente", txtNomeRazaoCliente.Text);
                 command.Parameters.AddWithValue("cpfouCPNJCliente", txtCpfCnpjCliente.Text);
                 command.Parameters.AddWithValue("emailCliente", txtEmailCliente.Text);
@@ -165,12 +183,14 @@ namespace T41N_DoTheEvolution
                 command.Parameters.AddWithValue("telefoneCliente", txtTelefoneCliente.Text);
                 command.Parameters.AddWithValue("celularCliente", txtCelularCliente.Text);
                 //command.Parameters.AddWithValue("tipoCliente", txtTipoCliente.Text);
-                //command.Parameters.AddWithValue("ativoInativoCliente", chkSimCliente.Checked || chkNaoCliente.Checked);
-                //command.Parameters.AddWithValue("conveniadoCLiente", chkSimConvenio.Checked || chkNaoConvenio.Checked);
-                command.Parameters.AddWithValue("creditoConveniado", txtConveniado.Text);
-                //command.Parameters.AddWithValue("descontoConveniado", txtCredito.Text);
+                command.Parameters.AddWithValue("ativoInativoCliente", cmbAtivo.Text);
+                command.Parameters.AddWithValue("conveniadoCLiente", cmbConveniado.Text);
+                command.Parameters.AddWithValue("creditoConveniado", txtCredito.Text);
+                command.Parameters.AddWithValue("descontoConveniado", txtConveniado.Text);
                 command.Parameters.AddWithValue("loginCliente", txtEmailCliente.Text);
                 command.Parameters.AddWithValue("senhaCliente", txtSenhaCliente.Text);
+
+
 
                 connection.Open();
                 command.ExecuteNonQuery();
