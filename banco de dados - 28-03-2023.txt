@@ -1,0 +1,415 @@
+create table Cliente(
+idCliente int identity(1,1) primary key,
+nomeCliente varchar(100) not null,
+cpfouCPNJCliente char(14) unique,
+emailCliente varchar(100) not null,
+cidadeCliente varchar(40) not null,
+enderecoCliente varchar(50) not null,
+enderecoNumeroCliente varchar(5) not null,
+enderecoComplementoCliente varchar(5) not null,
+telefoneCliente numeric(11),
+celularCliente numeric(13) not null,
+ativoInativoCliente varchar(7) default 'Ativo',
+conveniadoCliente varchar(3) default 'Não',
+creditoConveniado decimal(7,2) default 0,
+descontoConveniado decimal(3,1) default 0,
+loginCliente varchar(50) unique not null,
+senhaCliente varchar(20) not null
+);
+
+create table Funcionario(
+idFuncionario int identity(1,1) primary key,
+nomeFuncionario varchar(100) not null,
+cpfFuncionario char(11) unique,
+idadeFuncionario date,
+emailFuncionario varchar(100) not null,
+cidadeFuncionario varchar(40) not null,
+enderecoFuncionario varchar(50) not null,
+enderecoNumeroFuncionario varchar(10) not null,
+enderecoComplementoFuncionario varchar(10) not null,
+telefoneFuncionario numeric(10),
+celularFuncionario numeric(11),
+perfilFuncionario varchar(10) check(perfilFuncionario in('operador', 'administrador')),
+loginFuncionario varchar(50) unique not null,
+ativoInativoFuncionario varchar(7) default 'Ativo',
+senhaFuncionario varchar(20) not null
+);
+
+create table Motoboy(
+idMotoboy int identity(1,1) primary key,
+cnhMotoboy char(11) unique,
+nomeMotoboy varchar(100) not null,
+idadeMotoboy date not null,
+veiculoMotoboy varchar(50) not null,
+modeloMotoboy varchar(50) not null,
+placaMotoboy char(7) not null,
+enderecoMotoboy varchar(50) not null,
+enderecoNumeroMotoboy varchar(5) not null,
+EnderecoComplementoMotoboy varchar(5) not null,
+celularMotoboy numeric(13) not null,
+ativoInativoMotoboy varchar(7) default 'Ativo'
+);
+
+
+create table Corrida (
+idCorrida int identity(1,1) primary key,
+idMotoboy int not null,
+idCliente int not null,
+idFuncionario int not null,
+valorCorrida numeric(10) not null,
+previsaoTempoCorrida time,
+distanciaCorrida varchar(10),
+horarioRetiraCorrida time not null,
+dataRetiraCorrida date not null,
+cidadeRetiradaCorrida varchar(40) not null,
+enderecoRetiradaCorrida varchar(50) not null, 
+enderecoNumeroRetiradaCorrida varchar(5) not null,
+enderecoComplementoRetiradaCorrida varchar(5) not null,
+cepRetiraCorrida numeric(8) not null,
+horarioEntregaCorrida time not null,
+dataEntregaCorrida date not null,
+cidadeEntregaCorrida varchar(40) not null,
+enderecoEntregaCorrida varchar(50) not null, 
+enderecoNumeroEntregaCorrida varchar(5) not null,
+enderecoComplementoEntregaCorrida varchar(5) not null,
+cepEntregaCorrida numeric(8) not null,
+statusCorrida char(1) default 'Ativa',
+constraint fk_idMotoboy foreign key(idMotoboy) references Motoboy (idMotoboy),
+constraint fk_idFuncionario foreign key(idFuncionario) references Funcionario (idFuncionario),
+constraint fk_idCliente foreign key(idCliente) references Cliente (idCliente)
+);
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+PROCEDURES
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DELETAR FUNCIONARIO
+
+CREATE PROCEDURE pd_Funcionario
+(
+	@cpfFuncionario char(11)
+)
+AS
+BEGIN
+	DELETE FROM Funcionario 
+	WHERE cpfFuncionario = @cpfFuncionario
+END
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DELETAR MOTOBOY
+
+CREATE PROCEDURE pd_motoboy
+(
+    @cnhMotoboy char(11)
+)
+AS
+BEGIN
+    DELETE FROM Motoboy
+    WHERE cnhMotoboy = @cnhMotoboy
+END
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DELETAR CLIENTE	
+
+CREATE PROCEDURE pd_Cliente
+(
+	@cpfouCPNJCliente char(14)
+          
+)
+AS
+BEGIN
+	DELETE FROM Cliente 
+	WHERE cpfouCPNJCliente = @cpfouCPNJCliente
+END
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+BUSCA FUNCIONARIO
+
+CREATE PROCEDURE ps_Funcionario
+(
+	@nomeFuncionario VARCHAR(100) = NULL,
+	@cpfFuncionario CHAR(11) = NULL
+)
+AS
+BEGIN
+	IF (@nomeFuncionario IS NOT NULL)
+	BEGIN
+		SELECT * FROM Funcionario WHERE nomeFuncionario LIKE @nomeFuncionario + '%'
+	END
+	
+	IF (@cpfFuncionario IS NOT NULL)
+	BEGIN
+		SELECT * FROM Funcionario WHERE cpfFuncionario = @cpfFuncionario
+	END
+END
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BUSCA CLIENTE
+
+
+CREATE PROCEDURE ps_Cliente
+(
+	@nomeCliente  VARCHAR(100) = NULL,
+	@cpfouCPNJCliente CHAR(14) = NULL
+)
+AS
+BEGIN
+	IF (@nomeCliente IS NOT NULL)
+	BEGIN
+		SELECT * FROM Cliente WHERE nomeCliente LIKE @nomeCliente + '%'
+	END
+	
+	IF (@cpfouCPNJCliente IS NOT NULL)
+	BEGIN
+		SELECT * FROM Cliente WHERE cpfouCPNJCliente = @cpfouCPNJCliente 
+	END
+END
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CREATE PROCEDURE ps_Motoboy
+(
+	@nomeMotoboy VARCHAR(100) = NULL,
+	@cnhMotoboy CHAR(11) = NULL
+)
+AS
+BEGIN
+	IF (@nomeMotoboy IS NOT NULL)
+	BEGIN
+		SELECT * FROM Motoboy WHERE nomeMotoboy LIKE @nomeMotoboy + '%'
+	END
+	
+	IF (@cnhMotoboy IS NOT NULL)
+	BEGIN
+		SELECT * FROM Motoboy WHERE cnhMotoboy = @cnhMotoboy
+	END
+END
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+UPDATE FUNCIONARIO
+
+CREATE PROCEDURE PU_Funcionario
+(
+@nomeFuncionario varchar(100),
+@cpfFuncionario char(11),
+@idadeFuncionario date,
+@emailFuncionario varchar(100),
+@cidadeFuncionario varchar(40),
+@enderecoFuncionario varchar(50),
+@enderecoNumeroFuncionario varchar(50),
+@enderecoComplementoFuncionario varchar(10),
+@telefoneFuncionario numeric(10),
+@celularFuncionario numeric(11),
+@perfilFuncionario varchar(10),
+@loginFuncionario varchar(50),
+@ativoInativoFuncionario varchar(7),
+@senhaFuncionario varchar(20),
+@cpfFuncionarioBusca char(11)
+)
+AS
+BEGIN
+UPDATE Funcionario
+SET
+nomeFuncionario = @nomeFuncionario,
+cpfFuncionario = @cpfFuncionario,
+idadeFuncionario = @idadeFuncionario,
+emailFuncionario = @emailFuncionario,
+cidadeFuncionario = @cidadeFuncionario,
+enderecoFuncionario = @enderecoFuncionario,
+enderecoNumeroFuncionario = @enderecoNumeroFuncionario,
+enderecoComplementoFuncionario = @enderecoComplementoFuncionario,
+telefoneFuncionario = @telefoneFuncionario,
+celularFuncionario = @celularFuncionario,
+perfilFuncionario = @perfilFuncionario,
+loginFuncionario = @loginFuncionario,
+ativoInativoFuncionario = @ativoInativoFuncionario,
+senhaFuncionario = @senhaFuncionario
+WHERE cpfFuncionario = @cpfFuncionarioBusca
+END
+
+
+UPDATE CLIENTE
+
+CREATE PROCEDURE PU_Cliente
+(
+@nomeCliente varchar (100),
+@cpfouCPNJCliente char (11),
+@emailCliente varchar (100),
+@cidadeCliente varchar (40),
+@enderecoCliente varchar (50),
+@enderecoNumeroCLiente varchar (12),
+@enderecoComplementoCliente varchar (20),
+@telefoneCliente numeric (11),
+@celularCliente numeric (13),
+@ativoInativoCliente varchar(7),
+@conveniadoCLiente varchar(3),
+@creditoConveniado decimal (7,2),
+@descontoConveniado decimal(3,1),
+@loginCliente varchar(50),
+@senhaCliente varchar(20)
+)
+AS
+BEGIN
+UPDATE Cliente
+SET
+nomeCliente = @nomeCliente,
+cpfouCPNJCliente = @cpfouCPNJCliente,
+emailCliente = @emailCliente,
+cidadeCliente = @cidadeCliente,
+enderecoCliente = @enderecoCliente,
+enderecoNumeroCLiente = @enderecoNumeroCLiente,
+enderecoComplementoCliente = @enderecoComplementoCliente,
+telefoneCliente= @telefoneCliente,
+celularCliente = @celularCliente,
+ativoInativoCliente = @ativoInativoCliente,
+conveniadoCLiente = @conveniadoCLiente,
+creditoConveniado = @creditoConveniado,
+descontoConveniado = @descontoConveniado,
+loginCliente = @loginCliente,
+senhaCliente = @senhaCliente
+WHERE cpfouCPNJCliente = @cpfouCPNJCliente
+END
+
+
+
+UPDATE MOTOBOY
+
+CREATE PROCEDURE PU_Motoboy
+(
+@cnhMotoboy char(11),
+@nomeMotoboy varchar(100),
+@idadeMotoboy date,
+@veiculoMotoboy varchar(50),
+@modeloMotoboy varchar(50),
+@placaMotoboy char(7),
+@enderecoMotoboy varchar(50),
+@enderecoNumeroMotoboy varchar(5),
+@EnderecoComplementoMotoboy varchar(5),
+@celularMotoboy numeric(13),
+@ativoInativoMotoboy varchar(7)
+)
+AS 
+BEGIN
+UPDATE Motoboy
+SET
+cnhMotoboy = @cnhMotoboy,
+nomeMotoboy = @nomeMotoboy,
+idadeMotoboy = @idadeMotoboy,
+veiculoMotoboy = @veiculoMotoboy,
+modeloMotoboy = @modeloMotoboy,
+placaMotoboy = @placaMotoboy,
+enderecoMotoboy = @enderecoMotoboy,
+enderecoNumeroMotoboy = @enderecoNumeroMotoboy,
+EnderecoComplementoMotoboy = @EnderecoComplementoMotoboy,
+celularMotoboy = @celularMotoboy,
+ativoInativoMotoboy = @ativoInativoMotoboy
+WHERE cnhMotoboy = @cnhMotoboy
+END
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+INSERIR FUNCIONARIO
+
+create procedure pi_Funcionario
+(
+@nomeFuncionario varchar(100),
+@cpfFuncionario char(11),
+@idadeFuncionario date,
+@emailFuncionario varchar(100),
+@cidadeFuncionario varchar(40),
+@enderecoFuncionario varchar(50),
+@enderecoNumeroFuncionario varchar(50),
+@enderecoComplementoFuncionario varchar(10),
+@telefoneFuncionario numeric(10),
+@celularFuncionario numeric(11),
+@perfilFuncionario varchar(10),
+@loginFuncionario varchar(50),
+@ativoInativoFuncionario varchar(7),
+@senhaFuncionario varchar(20)
+)
+as
+insert into Funcionario (nomeFuncionario, cpfFuncionario, idadeFuncionario, emailFuncionario, cidadeFuncionario, enderecoFuncionario, enderecoNumeroFuncionario, enderecoComplementoFuncionario, telefoneFuncionario, celularFuncionario, perfilFuncionario, loginFuncionario, ativoInativoFuncionario, senhaFuncionario)
+values(@nomeFuncionario, @cpfFuncionario, @idadeFuncionario, @emailFuncionario, @cidadeFuncionario, @enderecoFuncionario, @enderecoNumeroFuncionario, @enderecoComplementoFuncionario, @telefoneFuncionario, @celularFuncionario, @perfilFuncionario, @loginFuncionario, @ativoInativoFuncionario, @senhaFuncionario)
+
+
+
+INSERIR CLIENTE
+
+create procedure pi_Cliente
+(
+@nomeCliente varchar (100),
+@cpfouCPNJCliente char (11),
+@emailCliente varchar (100),
+@cidadeCliente varchar (40),
+@enderecoCliente varchar (50),
+@enderecoNumeroCLiente varchar (12),
+@enderecoComplementoCliente varchar (20),
+@telefoneCliente numeric (11),
+@celularCliente numeric (13),
+@ativoInativoCliente varchar(7),
+@conveniadoCLiente varchar(3),
+@creditoConveniado decimal (7,2),
+@descontoConveniado decimal(3,1),
+@loginCliente varchar(50),
+@senhaCliente varchar(20)
+)
+as
+insert into Cliente (nomeCliente, cpfouCPNJCliente, emailCliente, cidadeCliente, enderecoCliente, enderecoNumeroCLiente, enderecoComplementoCliente, telefoneCliente, celularCliente, ativoInativoCliente, conveniadoCLiente, creditoConveniado, descontoConveniado, loginCliente, senhaCliente)
+values (@nomeCliente, @cpfouCPNJCliente, @emailCliente, @cidadeCliente, @enderecoCliente, @enderecoNumeroCLiente, @enderecoComplementoCliente, @telefoneCliente, @celularCliente, @ativoInativoCliente, @conveniadoCLiente, @creditoConveniado, @descontoConveniado, @loginCliente, @senhaCliente )
+
+
+INSERIR MOTOBOY
+
+
+CREATE PROCEDURE pi_Motoboy
+(
+@cnhMotoboy char(11),
+@nomeMotoboy varchar(100),
+@idadeMotoboy date,
+@veiculoMotoboy varchar(50),
+@modeloMotoboy varchar(50),
+@placaMotoboy char(7),
+@enderecoMotoboy varchar(50),
+@enderecoNumeroMotoboy varchar(5),
+@EnderecoComplementoMotoboy varchar(5),
+@celularMotoboy numeric(13),
+@ativoInativoMotoboy varchar(7)
+)
+as
+insert into Motoboy (cnhMotoboy, nomeMotoboy, idadeMotoboy, veiculoMotoboy, modeloMotoboy , placaMotoboy, enderecoMotoboy, enderecoNumeroMotoboy, EnderecoComplementoMotoboy, celularMotoboy, ativoInativoMotoboy)
+values (@cnhMotoboy, @nomeMotoboy, @idadeMotoboy, @veiculoMotoboy, @modeloMotoboy , @placaMotoboy, @enderecoMotoboy, @enderecoNumeroMotoboy, @EnderecoComplementoMotoboy, @celularMotoboy, @ativoInativoMotoboy)
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Create procedure PS_Login	
+(
+@loginFuncionario   Varchar(50),
+@senhaFuncionario  varchar(20)
+)
+as
+begin
+  select * from Funcionario
+  where loginFuncionario = @loginFuncionario and senhaFuncionario = @senhaFuncionario
+end

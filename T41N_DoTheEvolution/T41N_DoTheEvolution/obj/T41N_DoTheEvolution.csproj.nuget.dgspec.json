@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gustavo.lmaziero\\source\\repos\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\T41N_DoTheEvolution.csproj": {}
+    "C:\\Users\\gustavo.lmaziero\\Documents\\Github\\SUPAF\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\T41N_DoTheEvolution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gustavo.lmaziero\\source\\repos\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\T41N_DoTheEvolution.csproj": {
+    "C:\\Users\\gustavo.lmaziero\\Documents\\Github\\SUPAF\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\T41N_DoTheEvolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gustavo.lmaziero\\source\\repos\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\T41N_DoTheEvolution.csproj",
+        "projectUniqueName": "C:\\Users\\gustavo.lmaziero\\Documents\\Github\\SUPAF\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\T41N_DoTheEvolution.csproj",
         "projectName": "T41N_DoTheEvolution",
-        "projectPath": "C:\\Users\\gustavo.lmaziero\\source\\repos\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\T41N_DoTheEvolution.csproj",
+        "projectPath": "C:\\Users\\gustavo.lmaziero\\Documents\\Github\\SUPAF\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\T41N_DoTheEvolution.csproj",
         "packagesPath": "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gustavo.lmaziero\\source\\repos\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\obj\\",
+        "outputPath": "C:\\Users\\gustavo.lmaziero\\Documents\\Github\\SUPAF\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gustavo.lmaziero\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,7 +86,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

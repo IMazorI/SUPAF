@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "leVxAa1iW1WexW12mKf7rhYEoTVM6u+uHAF03Ue05BlP2bnL6JrwEsD98ZAxFn9448ajpS1uMTtht3YondSwjQ==",
+  "dgSpecHash": "JS8PNNMCWFgtGP+E1BG6OQvKZ+4NJ5dcoBVo3n2v9WbekrdTUw9pV50f/3cHWx2W5foRkViogySzf8O3sF9qPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gustavo.lmaziero\\source\\repos\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\T41N_DoTheEvolution.csproj",
+  "projectFilePath": "C:\\Users\\gustavo.lmaziero\\Documents\\Github\\SUPAF\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\T41N_DoTheEvolution.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",

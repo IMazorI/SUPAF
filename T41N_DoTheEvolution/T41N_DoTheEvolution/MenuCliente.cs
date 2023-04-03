@@ -93,5 +93,10 @@ namespace T41N_DoTheEvolution
             CadastroCliente Atualizar = new CadastroCliente(CPFenviado);
             Atualizar.Show();
         }
+
+        private void btnBuscarCliente_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

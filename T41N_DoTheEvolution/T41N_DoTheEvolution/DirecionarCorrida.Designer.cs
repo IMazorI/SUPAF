@@ -32,15 +32,13 @@ namespace T41N_DoTheEvolution
             this.txtCidadeRetira = new System.Windows.Forms.TextBox();
             this.btnConfirmarCorrida = new System.Windows.Forms.Button();
             this.btnCancelarCorrida = new System.Windows.Forms.Button();
-            this.txtCelularCliente = new System.Windows.Forms.TextBox();
+            this.txtNomeCliente = new System.Windows.Forms.TextBox();
             this.txtComRetira = new System.Windows.Forms.TextBox();
             this.txtNumRetira = new System.Windows.Forms.TextBox();
             this.txtCepRetira = new System.Windows.Forms.TextBox();
-            this.txtDataHoraRetira = new System.Windows.Forms.TextBox();
             this.txtNomeSolicitante = new System.Windows.Forms.TextBox();
             this.label13 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -58,11 +56,9 @@ namespace T41N_DoTheEvolution
             this.txtComEntrega = new System.Windows.Forms.TextBox();
             this.txtNumEntrega = new System.Windows.Forms.TextBox();
             this.txtCepEntrega = new System.Windows.Forms.TextBox();
-            this.txtDataHoraEntrega = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label18 = new System.Windows.Forms.Label();
-            this.label19 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.btnBuscarCorrida = new System.Windows.Forms.Button();
             this.label10 = new System.Windows.Forms.Label();
@@ -71,6 +67,16 @@ namespace T41N_DoTheEvolution
             this.txtValorCorrida = new System.Windows.Forms.TextBox();
             this.label20 = new System.Windows.Forms.Label();
             this.txtDistanciaCorrida = new System.Windows.Forms.TextBox();
+            this.dtpDataRetira = new System.Windows.Forms.DateTimePicker();
+            this.dtpHoraRetira = new System.Windows.Forms.DateTimePicker();
+            this.label21 = new System.Windows.Forms.Label();
+            this.dtpHoraEntrega = new System.Windows.Forms.DateTimePicker();
+            this.label19 = new System.Windows.Forms.Label();
+            this.dtpDataEntrega = new System.Windows.Forms.DateTimePicker();
+            this.label22 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.txtIDcliente = new System.Windows.Forms.TextBox();
+            this.txtIDMotoboy = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
@@ -92,6 +98,7 @@ namespace T41N_DoTheEvolution
             this.btnConfirmarCorrida.TabIndex = 83;
             this.btnConfirmarCorrida.Text = "CONFIRMAR";
             this.btnConfirmarCorrida.UseVisualStyleBackColor = true;
+            this.btnConfirmarCorrida.Click += new System.EventHandler(this.btnConfirmarCorrida_Click);
             // 
             // btnCancelarCorrida
             // 
@@ -104,12 +111,12 @@ namespace T41N_DoTheEvolution
             this.btnCancelarCorrida.UseVisualStyleBackColor = true;
             this.btnCancelarCorrida.Click += new System.EventHandler(this.btnCancelarCorrida_Click);
             // 
-            // txtCelularCliente
+            // txtNomeCliente
             // 
-            this.txtCelularCliente.Location = new System.Drawing.Point(591, 115);
-            this.txtCelularCliente.Name = "txtCelularCliente";
-            this.txtCelularCliente.Size = new System.Drawing.Size(142, 23);
-            this.txtCelularCliente.TabIndex = 79;
+            this.txtNomeCliente.Location = new System.Drawing.Point(191, 148);
+            this.txtNomeCliente.Name = "txtNomeCliente";
+            this.txtNomeCliente.Size = new System.Drawing.Size(217, 23);
+            this.txtNomeCliente.TabIndex = 79;
             // 
             // txtComRetira
             // 
@@ -131,13 +138,6 @@ namespace T41N_DoTheEvolution
             this.txtCepRetira.Name = "txtCepRetira";
             this.txtCepRetira.Size = new System.Drawing.Size(148, 23);
             this.txtCepRetira.TabIndex = 75;
-            // 
-            // txtDataHoraRetira
-            // 
-            this.txtDataHoraRetira.Location = new System.Drawing.Point(536, 214);
-            this.txtDataHoraRetira.Name = "txtDataHoraRetira";
-            this.txtDataHoraRetira.Size = new System.Drawing.Size(148, 23);
-            this.txtDataHoraRetira.TabIndex = 72;
             // 
             // txtNomeSolicitante
             // 
@@ -168,16 +168,6 @@ namespace T41N_DoTheEvolution
             this.label12.TabIndex = 69;
             this.label12.Text = "CIDADE:";
             // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label9.Location = new System.Drawing.Point(432, 119);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(153, 20);
-            this.label9.TabIndex = 67;
-            this.label9.Text = "TELEFONE CONTATO:";
-            // 
             // label7
             // 
             this.label7.AutoSize = true;
@@ -194,11 +184,11 @@ namespace T41N_DoTheEvolution
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.label3.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label3.Location = new System.Drawing.Point(425, 217);
+            this.label3.Location = new System.Drawing.Point(252, 218);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(105, 20);
+            this.label3.Size = new System.Drawing.Size(54, 20);
             this.label3.TabIndex = 61;
-            this.label3.Text = "DATA / HORA:";
+            this.label3.Text = "DATA :";
             // 
             // label2
             // 
@@ -337,13 +327,6 @@ namespace T41N_DoTheEvolution
             this.txtCepEntrega.Size = new System.Drawing.Size(148, 23);
             this.txtCepEntrega.TabIndex = 100;
             // 
-            // txtDataHoraEntrega
-            // 
-            this.txtDataHoraEntrega.Location = new System.Drawing.Point(536, 440);
-            this.txtDataHoraEntrega.Name = "txtDataHoraEntrega";
-            this.txtDataHoraEntrega.Size = new System.Drawing.Size(148, 23);
-            this.txtDataHoraEntrega.TabIndex = 99;
-            // 
             // label8
             // 
             this.label8.AutoSize = true;
@@ -377,17 +360,6 @@ namespace T41N_DoTheEvolution
             this.label18.TabIndex = 96;
             this.label18.Text = "CEP:";
             // 
-            // label19
-            // 
-            this.label19.AutoSize = true;
-            this.label19.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.label19.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label19.Location = new System.Drawing.Point(425, 443);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(105, 20);
-            this.label19.TabIndex = 95;
-            this.label19.Text = "DATA / HORA:";
-            // 
             // pictureBox2
             // 
             this.pictureBox2.BackColor = System.Drawing.SystemColors.ActiveBorder;
@@ -399,12 +371,13 @@ namespace T41N_DoTheEvolution
             // 
             // btnBuscarCorrida
             // 
-            this.btnBuscarCorrida.Location = new System.Drawing.Point(638, 79);
+            this.btnBuscarCorrida.Location = new System.Drawing.Point(624, 79);
             this.btnBuscarCorrida.Name = "btnBuscarCorrida";
             this.btnBuscarCorrida.Size = new System.Drawing.Size(75, 23);
             this.btnBuscarCorrida.TabIndex = 109;
             this.btnBuscarCorrida.Text = "Buscar";
             this.btnBuscarCorrida.UseVisualStyleBackColor = true;
+            this.btnBuscarCorrida.Click += new System.EventHandler(this.btnBuscarCorrida_Click);
             // 
             // label10
             // 
@@ -419,16 +392,17 @@ namespace T41N_DoTheEvolution
             // cmbMotoboy
             // 
             this.cmbMotoboy.FormattingEnabled = true;
-            this.cmbMotoboy.Location = new System.Drawing.Point(191, 119);
+            this.cmbMotoboy.Location = new System.Drawing.Point(191, 116);
             this.cmbMotoboy.Name = "cmbMotoboy";
             this.cmbMotoboy.Size = new System.Drawing.Size(217, 23);
             this.cmbMotoboy.TabIndex = 111;
+            this.cmbMotoboy.SelectedIndexChanged += new System.EventHandler(this.cmbMotoboy_SelectedIndexChanged);
             // 
             // label14
             // 
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label14.Location = new System.Drawing.Point(126, 152);
+            this.label14.Location = new System.Drawing.Point(526, 115);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(59, 20);
             this.label14.TabIndex = 112;
@@ -436,7 +410,7 @@ namespace T41N_DoTheEvolution
             // 
             // txtValorCorrida
             // 
-            this.txtValorCorrida.Location = new System.Drawing.Point(191, 152);
+            this.txtValorCorrida.Location = new System.Drawing.Point(591, 115);
             this.txtValorCorrida.Name = "txtValorCorrida";
             this.txtValorCorrida.Size = new System.Drawing.Size(142, 23);
             this.txtValorCorrida.TabIndex = 113;
@@ -458,11 +432,112 @@ namespace T41N_DoTheEvolution
             this.txtDistanciaCorrida.Size = new System.Drawing.Size(142, 23);
             this.txtDistanciaCorrida.TabIndex = 115;
             // 
+            // dtpDataRetira
+            // 
+            this.dtpDataRetira.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtpDataRetira.Location = new System.Drawing.Point(312, 218);
+            this.dtpDataRetira.Name = "dtpDataRetira";
+            this.dtpDataRetira.Size = new System.Drawing.Size(148, 23);
+            this.dtpDataRetira.TabIndex = 116;
+            // 
+            // dtpHoraRetira
+            // 
+            this.dtpHoraRetira.CalendarFont = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.dtpHoraRetira.Format = System.Windows.Forms.DateTimePickerFormat.Time;
+            this.dtpHoraRetira.Location = new System.Drawing.Point(536, 218);
+            this.dtpHoraRetira.Name = "dtpHoraRetira";
+            this.dtpHoraRetira.Size = new System.Drawing.Size(148, 23);
+            this.dtpHoraRetira.TabIndex = 118;
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.label21.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label21.Location = new System.Drawing.Point(472, 218);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(58, 20);
+            this.label21.TabIndex = 117;
+            this.label21.Text = "HORA :";
+            // 
+            // dtpHoraEntrega
+            // 
+            this.dtpHoraEntrega.Format = System.Windows.Forms.DateTimePickerFormat.Time;
+            this.dtpHoraEntrega.Location = new System.Drawing.Point(536, 447);
+            this.dtpHoraEntrega.Name = "dtpHoraEntrega";
+            this.dtpHoraEntrega.Size = new System.Drawing.Size(148, 23);
+            this.dtpHoraEntrega.TabIndex = 122;
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.label19.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label19.Location = new System.Drawing.Point(472, 447);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(58, 20);
+            this.label19.TabIndex = 121;
+            this.label19.Text = "HORA :";
+            // 
+            // dtpDataEntrega
+            // 
+            this.dtpDataEntrega.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtpDataEntrega.Location = new System.Drawing.Point(312, 447);
+            this.dtpDataEntrega.Name = "dtpDataEntrega";
+            this.dtpDataEntrega.Size = new System.Drawing.Size(148, 23);
+            this.dtpDataEntrega.TabIndex = 120;
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.label22.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label22.Location = new System.Drawing.Point(252, 447);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(54, 20);
+            this.label22.TabIndex = 119;
+            this.label22.Text = "DATA :";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label9.Location = new System.Drawing.Point(116, 152);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(69, 20);
+            this.label9.TabIndex = 67;
+            this.label9.Text = "CLIENTE:";
+            // 
+            // txtIDcliente
+            // 
+            this.txtIDcliente.Location = new System.Drawing.Point(414, 148);
+            this.txtIDcliente.Name = "txtIDcliente";
+            this.txtIDcliente.Size = new System.Drawing.Size(32, 23);
+            this.txtIDcliente.TabIndex = 123;
+            this.txtIDcliente.Visible = false;
+            // 
+            // txtIDMotoboy
+            // 
+            this.txtIDMotoboy.Location = new System.Drawing.Point(414, 116);
+            this.txtIDMotoboy.Name = "txtIDMotoboy";
+            this.txtIDMotoboy.Size = new System.Drawing.Size(32, 23);
+            this.txtIDMotoboy.TabIndex = 124;
+            this.txtIDMotoboy.Visible = false;
+            // 
             // DirecionarCorrida
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(801, 687);
+            this.Controls.Add(this.txtIDMotoboy);
+            this.Controls.Add(this.txtIDcliente);
+            this.Controls.Add(this.dtpHoraEntrega);
+            this.Controls.Add(this.label19);
+            this.Controls.Add(this.dtpDataEntrega);
+            this.Controls.Add(this.label22);
+            this.Controls.Add(this.dtpHoraRetira);
+            this.Controls.Add(this.label21);
+            this.Controls.Add(this.dtpDataRetira);
             this.Controls.Add(this.txtDistanciaCorrida);
             this.Controls.Add(this.label20);
             this.Controls.Add(this.txtValorCorrida);
@@ -478,11 +553,9 @@ namespace T41N_DoTheEvolution
             this.Controls.Add(this.txtComEntrega);
             this.Controls.Add(this.txtNumEntrega);
             this.Controls.Add(this.txtCepEntrega);
-            this.Controls.Add(this.txtDataHoraEntrega);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label18);
-            this.Controls.Add(this.label19);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.label17);
             this.Controls.Add(this.txtEnderecoRetira);
@@ -491,11 +564,10 @@ namespace T41N_DoTheEvolution
             this.Controls.Add(this.txtCidadeRetira);
             this.Controls.Add(this.btnConfirmarCorrida);
             this.Controls.Add(this.btnCancelarCorrida);
-            this.Controls.Add(this.txtCelularCliente);
+            this.Controls.Add(this.txtNomeCliente);
             this.Controls.Add(this.txtComRetira);
             this.Controls.Add(this.txtNumRetira);
             this.Controls.Add(this.txtCepRetira);
-            this.Controls.Add(this.txtDataHoraRetira);
             this.Controls.Add(this.txtNomeSolicitante);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.label12);
@@ -507,6 +579,7 @@ namespace T41N_DoTheEvolution
             this.Controls.Add(this.pictureBox1);
             this.Name = "DirecionarCorrida";
             this.Text = "DirecionarCorrida";
+            this.Load += new System.EventHandler(this.DirecionarCorrida_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
@@ -518,15 +591,13 @@ namespace T41N_DoTheEvolution
         private System.Windows.Forms.TextBox txtCidadeRetira;
         public System.Windows.Forms.Button btnConfirmarCorrida;
         public System.Windows.Forms.Button btnCancelarCorrida;
-        private System.Windows.Forms.TextBox txtCelularCliente;
+        private System.Windows.Forms.TextBox txtNomeCliente;
         private System.Windows.Forms.TextBox txtComRetira;
         private System.Windows.Forms.TextBox txtNumRetira;
         private System.Windows.Forms.TextBox txtCepRetira;
-        private System.Windows.Forms.TextBox txtDataHoraRetira;
         private System.Windows.Forms.TextBox txtNomeSolicitante;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
@@ -544,11 +615,9 @@ namespace T41N_DoTheEvolution
         private System.Windows.Forms.TextBox txtComEntrega;
         private System.Windows.Forms.TextBox txtNumEntrega;
         private System.Windows.Forms.TextBox txtCepEntrega;
-        private System.Windows.Forms.TextBox txtDataHoraEntrega;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.Label label19;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Button btnBuscarCorrida;
         private System.Windows.Forms.Label label10;
@@ -557,5 +626,15 @@ namespace T41N_DoTheEvolution
         private System.Windows.Forms.TextBox txtValorCorrida;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.TextBox txtDistanciaCorrida;
+        private System.Windows.Forms.DateTimePicker dtpDataRetira;
+        private System.Windows.Forms.DateTimePicker dtpHoraRetira;
+        private System.Windows.Forms.Label label21;
+        private System.Windows.Forms.DateTimePicker dtpHoraEntrega;
+        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.DateTimePicker dtpDataEntrega;
+        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.TextBox txtIDcliente;
+        private System.Windows.Forms.TextBox txtIDMotoboy;
     }
 }
