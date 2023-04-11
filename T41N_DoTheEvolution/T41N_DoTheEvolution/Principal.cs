@@ -64,12 +64,23 @@ namespace T41N_DoTheEvolution
             Login acessar = new Login(this);
             acessar.MdiParent = this;
             acessar.Show();
+
+
+
+
+
+
         }
 
         private void cONECTARToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Login acessar = new Login(this);
             acessar.Show();
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
         }
     }
 }

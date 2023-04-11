@@ -77,6 +77,10 @@ namespace T41N_DoTheEvolution
             this.label9 = new System.Windows.Forms.Label();
             this.txtIDcliente = new System.Windows.Forms.TextBox();
             this.txtIDMotoboy = new System.Windows.Forms.TextBox();
+            this.txtIdFuncionario = new System.Windows.Forms.TextBox();
+            this.txtPrevisao = new System.Windows.Forms.TextBox();
+            this.label23 = new System.Windows.Forms.Label();
+            this.txtStatusCorrida = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
@@ -87,7 +91,6 @@ namespace T41N_DoTheEvolution
             this.txtCidadeRetira.Name = "txtCidadeRetira";
             this.txtCidadeRetira.Size = new System.Drawing.Size(148, 23);
             this.txtCidadeRetira.TabIndex = 85;
-            this.txtCidadeRetira.TextChanged += new System.EventHandler(this.txtTelefoneCliente_TextChanged);
             // 
             // btnConfirmarCorrida
             // 
@@ -524,11 +527,49 @@ namespace T41N_DoTheEvolution
             this.txtIDMotoboy.TabIndex = 124;
             this.txtIDMotoboy.Visible = false;
             // 
+            // txtIdFuncionario
+            // 
+            this.txtIdFuncionario.Location = new System.Drawing.Point(463, 116);
+            this.txtIdFuncionario.Name = "txtIdFuncionario";
+            this.txtIdFuncionario.Size = new System.Drawing.Size(32, 23);
+            this.txtIdFuncionario.TabIndex = 125;
+            this.txtIdFuncionario.Visible = false;
+            // 
+            // txtPrevisao
+            // 
+            this.txtPrevisao.Location = new System.Drawing.Point(407, 387);
+            this.txtPrevisao.Name = "txtPrevisao";
+            this.txtPrevisao.Size = new System.Drawing.Size(142, 23);
+            this.txtPrevisao.TabIndex = 126;
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label23.Location = new System.Drawing.Point(294, 390);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(82, 20);
+            this.label23.TabIndex = 127;
+            this.label23.Text = "PREVISÃO:";
+            // 
+            // txtStatusCorrida
+            // 
+            this.txtStatusCorrida.Location = new System.Drawing.Point(600, 640);
+            this.txtStatusCorrida.Name = "txtStatusCorrida";
+            this.txtStatusCorrida.Size = new System.Drawing.Size(32, 23);
+            this.txtStatusCorrida.TabIndex = 128;
+            this.txtStatusCorrida.Text = "Ativa";
+            this.txtStatusCorrida.Visible = false;
+            // 
             // DirecionarCorrida
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(801, 687);
+            this.Controls.Add(this.txtStatusCorrida);
+            this.Controls.Add(this.label23);
+            this.Controls.Add(this.txtPrevisao);
+            this.Controls.Add(this.txtIdFuncionario);
             this.Controls.Add(this.txtIDMotoboy);
             this.Controls.Add(this.txtIDcliente);
             this.Controls.Add(this.dtpHoraEntrega);
@@ -636,5 +677,9 @@ namespace T41N_DoTheEvolution
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.TextBox txtIDcliente;
         private System.Windows.Forms.TextBox txtIDMotoboy;
+        private System.Windows.Forms.TextBox txtIdFuncionario;
+        private System.Windows.Forms.TextBox txtPrevisao;
+        private System.Windows.Forms.Label label23;
+        private System.Windows.Forms.TextBox txtStatusCorrida;
     }
 }

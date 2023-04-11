@@ -62,6 +62,7 @@ namespace T41N_DoTheEvolution
             this.menuStrip1.Size = new System.Drawing.Size(1264, 67);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // CORRIDASToolStripMenuItem
             // 

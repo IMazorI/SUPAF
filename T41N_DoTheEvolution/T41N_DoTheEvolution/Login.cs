@@ -14,6 +14,7 @@ namespace T41N_DoTheEvolution
 {
     public partial class Login : Form
     {
+        public static int idFun;
 
         public Principal principal;
         public Login(Principal _Principal)
@@ -22,8 +23,10 @@ namespace T41N_DoTheEvolution
             InitializeComponent();
         }
 
-        private void btnLogin_Click(object sender, EventArgs e)
+        public void btnLogin_Click(object sender, EventArgs e)
         {
+           
+
 
             SqlConnection connection = new
                 SqlConnection(Properties.Settings.Default.strConexao.ToString());
@@ -39,11 +42,18 @@ namespace T41N_DoTheEvolution
 
             SqlDataReader reader;
             connection.Open();
+           
 
             reader = command.ExecuteReader();
 
+            reader.Read();
+
+            Login.idFun = reader.GetInt32(0);
+          
+
             if (reader.HasRows)
             {
+                
                 //lIBERAR O LOGIN
                 MessageBox.Show("Bem vindo!");
 
@@ -55,7 +65,6 @@ namespace T41N_DoTheEvolution
                 principal.RELATORIOToolStripMenuItem.Visible = true;
                 principal.editarPerfilToolStripMenuItem.Visible = true;
                 principal.deslogarToolStripMenuItem.Visible = true;
-
                
 
                 connection.Close();
@@ -68,6 +77,8 @@ namespace T41N_DoTheEvolution
                 connection.Close();
                 MessageBox.Show("Usuario e/ou Senha Incorreto(s)!");
             }
+
+         
 
             connection.Close();
 
@@ -82,7 +93,7 @@ namespace T41N_DoTheEvolution
 
         private void Login_Load(object sender, EventArgs e)
         {
-
+           
         }
     }
 }

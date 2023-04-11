@@ -7,6 +7,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using System.Reflection.PortableExecutable;
 
 namespace T41N_DoTheEvolution
 {
@@ -17,12 +18,11 @@ namespace T41N_DoTheEvolution
         {
             principal = _principal;
             InitializeComponent();
-        }
+        }             
 
-        private void txtTelefoneCliente_TextChanged(object sender, EventArgs e)
-        {
 
-        }
+
+       
 
         private void btnCancelarCorrida_Click(object sender, EventArgs e)
         {
@@ -73,6 +73,7 @@ namespace T41N_DoTheEvolution
         private void btnConfirmarCorrida_Click(object sender, EventArgs e)
         {
 
+
             SqlConnection connection = new SqlConnection(Properties.Settings.Default.strConexao.ToString());
 
             SqlCommand command = new SqlCommand();
@@ -83,9 +84,9 @@ namespace T41N_DoTheEvolution
 
             command.Parameters.AddWithValue("idMotoboy", txtIDMotoboy.Text);
             command.Parameters.AddWithValue("idCliente", txtIDcliente.Text);
-            command.Parameters.AddWithValue("idFuncionario",         .Text);   //criar
+            command.Parameters.AddWithValue("idFuncionario", txtIdFuncionario.Text);
             command.Parameters.AddWithValue("valorCorrida", txtValorCorrida.Text);
-            command.Parameters.AddWithValue("previsaoTempoCorrida",    .Text); //criar
+            command.Parameters.AddWithValue("previsaoTempoCorrida", txtPrevisao.Text);
             command.Parameters.AddWithValue("distanciaCorrida", txtDistanciaCorrida.Text);
             //Retira
             command.Parameters.AddWithValue("horarioRetiraCorrida", dtpHoraRetira.Text);
@@ -99,12 +100,12 @@ namespace T41N_DoTheEvolution
             command.Parameters.AddWithValue("horarioEntregaCorrida", dtpHoraEntrega.Text);
             command.Parameters.AddWithValue("dataEntregaCorrida", dtpDataEntrega.Text);
             command.Parameters.AddWithValue("cidadeEntregaCorrida", txtCidadeEntrega.Text);
-            command.Parameters.AddWithValue("enderecoEntregaCorrida", txtEnderecoEntrega.Text);            
+            command.Parameters.AddWithValue("enderecoEntregaCorrida", txtEnderecoEntrega.Text);
             command.Parameters.AddWithValue("enderecoNumeroEntregaCorrida", txtNumEntrega.Text);
-            command.Parameters.AddWithValue("enderecoComplementoEntregaCorrida", txtComEntrega.Text);            
-            command.Parameters.AddWithValue("cepEntregaCorrida", txtCepEntrega.Text);            
+            command.Parameters.AddWithValue("enderecoComplementoEntregaCorrida", txtComEntrega.Text);
+            command.Parameters.AddWithValue("cepEntregaCorrida", txtCepEntrega.Text);
             //status
-            command.Parameters.AddWithValue("  ", .Text); //criar
+            command.Parameters.AddWithValue("statusCorrida", txtStatusCorrida.Text);
 
 
 
@@ -118,45 +119,70 @@ namespace T41N_DoTheEvolution
 
         }
 
+
         private void DirecionarCorrida_Load(object sender, EventArgs e)
         {
-            
+            preenchercmb();
+
+            txtIdFuncionario.Text = Login.idFun.ToString();
 
         }
 
-        private void cmbMotoboy_SelectedIndexChanged(object sender, EventArgs e)
+        private void preenchercmb()
         {
-            //NAO ESTA FUNCIONANDO
 
             SqlConnection connection = new
-             SqlConnection(Properties.Settings.Default.strConexao.ToString());
-
-            SqlCommand command = new SqlCommand();
-            command.CommandText = "ps_Motoboy";
-            command.CommandType = CommandType.StoredProcedure;
-            command.Connection = connection;
-
-            SqlDataReader reader;
+           SqlConnection(Properties.Settings.Default.strConexao.ToString());
 
             connection.Open();
+            SqlCommand command = new SqlCommand();
+            command = connection.CreateCommand();
+            command.CommandType = CommandType.Text;
+            command.CommandText = "select nomeMotoboy, idMotoboy from Motoboy";
+
+            command.ExecuteNonQuery();
+
+            DataTable dt = new DataTable();
+            SqlDataAdapter da = new SqlDataAdapter(command);
+            da.Fill(dt);
+
+            foreach (DataRow dr in dt.Rows)
+            {
+                cmbMotoboy.Items.Add(dr["nomeMotoboy"].ToString());
+            }
+
+
+            connection.Close();
+
+        }
+
+
+        private void cmbMotoboy_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+            SqlConnection connection = new
+            SqlConnection(Properties.Settings.Default.strConexao.ToString());
+
+            connection.Open();
+            SqlCommand command = new SqlCommand();
+            command = connection.CreateCommand();
+            command.CommandType = CommandType.Text;
+            command.CommandText = "select idMotoboy from Motoboy where nomeMotoboy = '" + cmbMotoboy.Text + "'";
+            command.ExecuteNonQuery();
+
+            SqlDataReader reader;
 
             reader = command.ExecuteReader();
 
             if (reader.HasRows)
             {
-                cmbMotoboy.Items.Clear();
+                reader.Read();
 
-                while (reader.Read())
-                {
-
-                    txtIDMotoboy.Text = reader.GetInt32("idMotoboy").ToString();   //No clique da combo box                 
-                    cmbMotoboy.Items.Add(reader["nomeMotoboy"].ToString());
-
-                }
-
-                connection.Close();
+                txtIDMotoboy.Text = reader.GetInt32(0).ToString();
 
             }
+
+
         }
     }
 }

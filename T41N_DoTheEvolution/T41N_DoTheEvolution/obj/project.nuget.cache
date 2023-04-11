@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JS8PNNMCWFgtGP+E1BG6OQvKZ+4NJ5dcoBVo3n2v9WbekrdTUw9pV50f/3cHWx2W5foRkViogySzf8O3sF9qPA==",
+  "dgSpecHash": "9nzyXy5UPfc5K2sgS98KyVN8lnIxZy0wt9tLy9LXIJLavV9XpCC7ZjfdT7W9uRAuaBYVKimD+8BEH4AxYCy4Dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gustavo.lmaziero\\Documents\\Github\\SUPAF\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\T41N_DoTheEvolution.csproj",
+  "projectFilePath": "C:\\Users\\gustavo.lmaziero\\source\\repos\\T41N_DoTheEvolution\\T41N_DoTheEvolution\\T41N_DoTheEvolution.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
@@ -18,11 +18,7 @@
     "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
     "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
     "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+    "C:\\Users\\gustavo.lmaziero\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
