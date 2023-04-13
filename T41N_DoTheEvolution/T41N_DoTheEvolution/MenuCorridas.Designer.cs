@@ -69,7 +69,7 @@ namespace T41N_DoTheEvolution
             btnExcluirCorrida.Name = "btnExcluirCorrida";
             btnExcluirCorrida.Size = new System.Drawing.Size(84, 24);
             btnExcluirCorrida.TabIndex = 18;
-            btnExcluirCorrida.Text = "EXCLUIR";
+            btnExcluirCorrida.Text = "CANCELAR";
             btnExcluirCorrida.UseVisualStyleBackColor = true;
             btnExcluirCorrida.Click += btnExcluirCorrida_Click;
             // 
@@ -79,6 +79,7 @@ namespace T41N_DoTheEvolution
             DGVcorridas.Location = new System.Drawing.Point(12, 55);
             DGVcorridas.Name = "DGVcorridas";
             DGVcorridas.RowTemplate.Height = 25;
+            DGVcorridas.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             DGVcorridas.Size = new System.Drawing.Size(776, 333);
             DGVcorridas.TabIndex = 17;
             DGVcorridas.CellClick += DGVcorridas_CellClick;

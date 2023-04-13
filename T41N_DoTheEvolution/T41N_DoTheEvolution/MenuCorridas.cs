@@ -14,8 +14,9 @@ namespace T41N_DoTheEvolution
     {
         Principal principal;
 
-        public string IDcorrida, status="Ativa";
-        
+        public string IDcorrida, status = "Ativa";
+   
+
 
         public MenuCorridas(Principal _principal)
         {
@@ -45,7 +46,7 @@ namespace T41N_DoTheEvolution
 
 
             command.Parameters.AddWithValue("cpfouCPNJCliente", txtSolicitanteCorrida.Text); // MUDAR PARA NOME E CPF NA BUSCA
-            
+
 
             SqlDataAdapter adapter = new SqlDataAdapter(command);
             DataTable ds = new DataTable();
@@ -57,28 +58,28 @@ namespace T41N_DoTheEvolution
 
         private void btnExcluirCorrida_Click(object sender, EventArgs e)
         {
-            //SqlConnection connection = new
-            //SqlConnection(Properties.Settings.Default.strConexao.ToString());
-            //SqlCommand command = new SqlCommand();
-            //command.CommandText = "pd_Corrida";
-            //command.CommandType = CommandType.StoredProcedure;
-            //command.Connection = connection;
+            SqlConnection connection = new
+            SqlConnection(Properties.Settings.Default.strConexao.ToString());
+            SqlCommand command = new SqlCommand();
+            command.CommandText = "pc_Corrida";
+            command.CommandType = CommandType.StoredProcedure;
+            command.Connection = connection;
 
-            //command.Parameters.AddWithValue("cpfouCPNJCliente", CPFcliente);
+            command.Parameters.AddWithValue("cpfouCPNJCliente", IDcorrida);
 
-            //connection.Open();
-            //command.ExecuteNonQuery();
-            //connection.Close();
+            connection.Open();
+            command.ExecuteNonQuery();
+            connection.Close();
 
-            //MessageBox.Show("Cliente Excluído");
+            MessageBox.Show("Corrida Cancelada");
 
-            //Listar();
+            Listar();
         }
 
         private void btnEditarCorrida_Click(object sender, EventArgs e)
         {
-            //DirecionarCorrida Atualizar = new DirecionarCorrida(CPFcliente);
-            //Atualizar.Show();
+            DirecionarCorrida Atualizar = new DirecionarCorrida(IDcorrida);
+            Atualizar.Show();
         }
 
         private void btnFinalizarCorrida_Click(object sender, EventArgs e)
@@ -124,7 +125,7 @@ namespace T41N_DoTheEvolution
             DGVcorridas.DataSource = ds;
         }
 
-       
+
         private void DGVcorridas_CellClick(object sender, DataGridViewCellEventArgs e)
         {
 

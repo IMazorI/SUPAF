@@ -195,6 +195,32 @@ BEGIN
 	END
 END
 
+CREATE PROCEDURE ps_Corrida
+(
+	@IdBuscar int(1,1)
+	
+)
+AS
+BEGIN
+	
+		SELECT * FROM Corrida WHERE idCorrida = @IdBuscar
+	
+END
+
+CREATE PROCEDURE pc_Corrida
+(
+@statusCorrida VARCHAR(10)= Cancelada,
+@idCorrida int
+)
+AS
+BEGIN
+UPDATE Corrida
+SET
+statusCorrida = @statusCorrida
+WHERE idCorrida = @idCorrida
+END
+
+
 
 CREATE PROCEDURE listarCorrida
 (	
@@ -226,6 +252,19 @@ END
 CREATE PROCEDURE pf_Corrida
 (
 @statusCorrida VARCHAR(10)= Finalizada,
+@idCorrida int
+)
+AS
+BEGIN
+UPDATE Corrida
+SET
+statusCorrida = @statusCorrida
+WHERE idCorrida = @idCorrida
+END
+
+CREATE PROCEDURE pc_Corrida
+(
+@statusCorrida VARCHAR(10)= Cancelada,
 @idCorrida int
 )
 AS

@@ -8,21 +8,31 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using System.Reflection.PortableExecutable;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.TaskbarClock;
 
 namespace T41N_DoTheEvolution
 {
     public partial class DirecionarCorrida : Form
     {
         Principal principal;
+
+        string IDEditar;
+
         public DirecionarCorrida(Principal _principal)
         {
             principal = _principal;
             InitializeComponent();
-        }             
+        }
+
+        public DirecionarCorrida(String IDcorrida)
+        {
+
+            this.IDEditar = IDcorrida;
+            InitializeComponent();
+        }
 
 
 
-       
 
         private void btnCancelarCorrida_Click(object sender, EventArgs e)
         {
@@ -122,9 +132,73 @@ namespace T41N_DoTheEvolution
 
         private void DirecionarCorrida_Load(object sender, EventArgs e)
         {
+            DateTime datateste;
+
             preenchercmb();
 
             txtIdFuncionario.Text = Login.idFun.ToString();
+
+            if (IDEditar != null)
+            {
+                SqlConnection connection = new
+                SqlConnection(Properties.Settings.Default.strConexao.ToString());
+
+                SqlCommand command = new SqlCommand();
+                command.CommandText = "ps_Corrida";
+                command.CommandType = CommandType.StoredProcedure;
+                command.Connection = connection;
+
+
+                command.Parameters.AddWithValue("IdBuscar", IDEditar);
+
+                SqlDataReader reader;
+
+                connection.Open();
+
+                reader = command.ExecuteReader();
+
+                if (reader.HasRows)
+                {
+                    reader.Read();
+
+
+                    txtIDMotoboy.Text = reader.GetInt32("idMotoboy").ToString();
+                    txtIDcliente.Text = reader.GetInt32("idCliente").ToString();
+                    txtIdFuncionario.Text = reader.GetInt32("IdFuncionario").ToString(); //e se mudar o usuario ?
+                    txtValorCorrida.Text = reader.GetDecimal("valorCorrida").ToString();
+                    //datateste = reader.GetDateTime(6); 
+                    txtDistanciaCorrida.Text = reader.GetString("distanciaCorrida");
+                    //Retira
+                    dtpHoraRetira.Value = reader.GetDateTime("horarioRetiraCorrida");
+                    dtpDataRetira.Value = reader.GetDateTime("dataRetiraCorrida");
+                    txtCidadeRetira.Text = reader.GetString("cidadeRetiradaCorrida");
+                    txtEnderecoRetira.Text = reader.GetString("enderecoRetiradaCorrida ");
+                    txtNumRetira.Text = reader.GetString("enderecoNumeroRetiradaCorrida");
+                    txtComRetira.Text = reader.GetString("enderecoComplementoRetiradaCorrida");
+                    txtCepRetira.Text = reader.GetString("cepRetiraCorrida");
+                    //Entrega
+                    dtpHoraEntrega.Value = reader.GetDateTime("horarioEntregaCorrida");
+                    dtpDataEntrega.Value = reader.GetDateTime("dataEntregaCorrida");
+                    txtCidadeEntrega.Text = reader.GetString("cidadeEntregaCorrida");
+                    txtEnderecoEntrega.Text = reader.GetString("enderecoEntregaCorrida");
+                    txtNumEntrega.Text = reader.GetString("enderecoNumeroEntregaCorrida");
+                    txtComEntrega.Text = reader.GetString("enderecoComplementoEntregaCorrida");
+                    txtCepEntrega.Text = reader.GetString("cepEntregaCorrida");
+                    //status
+                    txtStatusCorrida.Text = reader.GetString("statusCorrida");
+
+
+                }
+                else
+                {
+                    MessageBox.Show("Corrida não encontrada.");
+                }
+
+                connection.Close();
+            }
+
+
+
 
         }
 
@@ -182,6 +256,10 @@ namespace T41N_DoTheEvolution
 
             }
 
+        }
+
+        private void btn_AtualizarCorrida_Click(object sender, EventArgs e)
+        {
 
         }
     }
